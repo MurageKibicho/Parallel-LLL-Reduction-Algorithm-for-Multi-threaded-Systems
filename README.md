@@ -1,5 +1,5 @@
 # Parallel LLL Reduction Algorithm for Multi-threaded Systems by [Murage Kibicho](https://x.com/murage_kibicho)
-<p>Python guide to the obscure <strong>Parallel LLL Algorithm (Luo & Qiao, 2011)</strong> approach built on the delayed reduction heuristic.</p>
+<p>Python guide to the <strong>Parallel LLL Algorithm (Luo & Qiao, 2011)</strong> built on the delayed reduction heuristic.</p>
 
 Let me know if you spot a mistake via [Twitter](https://x.com/murage_kibicho) or <a href="mailto:murage@kibicho">Email</a> (I'm also searching for a job).
 
@@ -12,5 +12,5 @@ This is part of the LeetArxiv _Programmer’s Introduction to LLL Reduction_:
 5. [LLL Applied To Extended GCD, Hermite Normal Form](https://leetarxiv.substack.com/p/lll-applied-to-extended-gcd-hermite).
 
 <div align="center">
-<img src="https://github.com/MurageKibicho/The-Annotated-Triple-Product-Property-Matrix-Multiplication-Algorithm/blob/main/Promo/DuaLipa.png?raw=true:" alt="Dua Lipa alongside TPP paper" width=400>
+<img src="https://github.com/MurageKibicho/Parallel-LLL-Reduction-Algorithm-for-Multi-threaded-Systems/blob/main/PDF/Abstract.png?raw=true:" alt="Abstract for the paper A Parallel LLL Algorithm (Luo & Qiao, 2011)" width=400>
 </div>
